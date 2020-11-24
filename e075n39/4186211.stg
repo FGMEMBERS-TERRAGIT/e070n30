@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Airport/marker.ac 75.991667 39.541667 1379.09 180
 OBJECT_SHARED Models/Airport/localizer.xml 75.997803 39.541675 1379.39 94
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 75.99785 39.54065 1369.20 275.097
+# END dsf2stg
